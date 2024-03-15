@@ -34,3 +34,36 @@ const student ={
 student["age"] = student["age"]+1;
 
 console.log(student.age);
+// pratice 1
+const product = {
+    title:"Ball pen",
+    ratting: 4,
+    offer: 5,
+    price:270,
+};
+console.log(product)
+const porfile = {
+   username:"@mueedzafar",
+   isfolow: false,
+   followers: 123,
+   following:123
+};
+console.log(porfile)
+// comments
+console.log("hello world!")
+// operators in js
+// 1- artimetice operator
+let a = 5;
+let b = 2;
+
+console.log("a+b",a + b);
+console.log("a-b",a - b);
+console.log("a*b",a * b);
+console.log("a/b",a / b);
+console.log("a%b",a % b);
+console.log("a**b",a ** b);
+// unairy operators
+
+
+
+
