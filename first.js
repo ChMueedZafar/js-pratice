@@ -63,7 +63,7 @@ console.log("a/b",a / b);
 console.log("a%b",a % b);
 console.log("a**b",a ** b);
 // unairy operators
-
+console.log("ch mueed zafar")
 
 
 
