@@ -64,11 +64,30 @@ console.log("a%b",a % b);
 console.log("a**b",a ** b);
 // unairy operators
 console.log("ch mueed zafar");
-let v= 1;
+let k = 8;
+let q = 9;
+console.log("k+q",k + q);
+++k
+console.log(k);
+q++
+console.log(q);
+// Assignment operators
+let v = 5;
 let z = 2;
+v += 4; 
+console.log("v = ",v);
+z -=3
+console.log("z =",z);
+v *= 4; 
+console.log("v = ",v);
+z /=3
+console.log("z =",z);
+v %= 4; 
+console.log("v = ",v);
+z **=3
+console.log("z =",z)
 
-console.log("v+z", v + z);
-
+ 
 
 
 
