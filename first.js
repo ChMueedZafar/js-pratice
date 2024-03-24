@@ -62,32 +62,21 @@ console.log("a*b",a * b);
 console.log("a/b",a / b);
 console.log("a%b",a % b);
 console.log("a**b",a ** b);
-// unairy operators
-console.log("ch mueed zafar");
-let k = 8;
-let q = 9;
-console.log("k+q",k + q);
-++k
-console.log(k);
-q++
-console.log(q);
-// Assignment operators
-let v = 5;
-let z = 2;
-v += 4; 
-console.log("v = ",v);
-z -=3
-console.log("z =",z);
-v *= 4; 
-console.log("v = ",v);
-z /=3
-console.log("z =",z);
-v %= 4; 
-console.log("v = ",v);
-z **=3
-console.log("z =",z)
 
- 
+function doubletheelements(numbers){
+for (letindex = 0; index <numbers.lenght;index++){
+
+    numbers [index] = numbers [index]*2
+
+}
+greet()
+return  numbera
+}
+let numbersInput =[4,5,3,5,3]
+
+let numberaoutput = doublethelements (numbersInput)
+
+console.log("Double array ", numbersoutput)
 
 
 
