@@ -63,20 +63,8 @@ console.log("a/b",a / b);
 console.log("a%b",a % b);
 console.log("a**b",a ** b);
 
-function doubletheelements(numbers){
-for (letindex = 0; index <numbers.lenght;index++){
+console.log("Function")
 
-    numbers [index] = numbers [index]*2
-
-}
-greet()
-return  numbera
-}
-let numbersInput =[4,5,3,5,3]
-
-let numberaoutput = doublethelements (numbersInput)
-
-console.log("Double array ", numbersoutput)
 
 
 
