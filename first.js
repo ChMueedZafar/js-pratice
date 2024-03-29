@@ -65,6 +65,12 @@ console.log("a**b",a ** b);
 
 console.log("Function")
 
+// logic operators
+let z = 3;
+let v = 5;
+console.log("!(3 < 5)=",!(z < v));
+
+
 
 
 
