@@ -80,30 +80,38 @@
 //     console.log(num ,"is not multiple of 5");
 // }
 
-let scor =prompt("entre a number 0-100")
-let grade;
+// let scor =prompt("entre a number 0-100")
+// let grade;
 
 
-if (scor>= 90 && scor <= 100){
-    grade ="A"
-}
-else if(scor>=80 && scor <= 89){
-    grade ="B"
-}
-else if(scor>=70 && scor <= 79){
-    grade ="C"
-}
-else if(scor>=60 && scor <= 69){
-    grade ="D"
-}
-else if(scor>=50 && scor <= 59){
-    grade ="E"
-}
-else if(scor>=0 && scor <= 49){
-    grade ="F"
-}
+// if (scor>= 90 && scor <= 100){
+//     grade ="A"
+// }
+// else if(scor>=80 && scor <= 89){
+//     grade ="B"
+// }
+// else if(scor>=70 && scor <= 79){
+//     grade ="C"
+// }
+// else if(scor>=60 && scor <= 69){
+//     grade ="D"
+// }
+// else if(scor>=50 && scor <= 59){
+//     grade ="E"
+// }
+// else if(scor>=0 && scor <= 49){
+//     grade ="F"
+// }
 
-console.log("According to your scor your grade was"+ grade);
+// console.log("According to your scor your grade was"+ grade);
 
+// strings
+// let fullName = prompt("entrethefullnamewithoutspaces");
+
+// let username = "@" + fullName + fullName.length;
+// console.log (username);
+// arrys
+let marks =[2,8,9,5,7];
+console.log(marks);
 
 
