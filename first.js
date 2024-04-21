@@ -111,7 +111,13 @@
 // let username = "@" + fullName + fullName.length;
 // console.log (username);
 // arrys
-let marks =[2,8,9,5,7];
-console.log(marks);
-
+// let marks =[2,8,9,5,7];
+// console.log(marks);
+// string
+let fullName = "m u e d"
+let namewithspacing = ""
+for (let index =0 ; index< fullName.length;index++){
+    console.log(fullName.charAt(index))
+    // namewidthspacing = fullName .charAt (index)+ ""
+}
 
