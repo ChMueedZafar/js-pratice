@@ -120,4 +120,5 @@ for (let index =0 ; index< fullName.length;index++){
     console.log(fullName.charAt(index))
     // namewidthspacing = fullName .charAt (index)+ ""
 }
-
+let str = "abdul"
+console.log("str");
